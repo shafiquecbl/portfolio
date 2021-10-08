@@ -38,7 +38,9 @@
 
 <!-- Loading HTML -->
 
-<div id="overlay" class="text"> Loading </div>
+<div id="outer">  
+  <img src="loading.gif">
+</div>
   
 </div>
 
@@ -48,7 +50,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2025761479');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3200999082');
       });
     }
   </script>
