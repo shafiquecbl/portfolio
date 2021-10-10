@@ -22,6 +22,7 @@
   <meta name="apple-mobile-web-app-title" content="folio">
   <meta name="google-site-verification" content="oR_qhXwR3-KY1pK_UmVAbRQQff10-5Jom5D6Uv_gcc4" />
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <base href="/">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
@@ -30,6 +31,8 @@
   
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="style.css">
+  
+
 </head>
 <body>
 
@@ -47,18 +50,23 @@
 	</div>
 	<div class="status">Loading<span class="status__dot">.</span><span class="status__dot">.</span><span class="status__dot">.</span></div>
 </main>
+
+
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3374233141');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=85879131');
       });
     }
   </script>
+
   <script src="main.dart.js" type="application/javascript"></script>
   <script type="module">
+
+
     // Import the functions you need from the SDKs you need
     // import { initializeApp } from "https://www.gstatic.com/firebasejs/9.1.2/firebase-app.js";
     // import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.1.2/firebase-analytics.js";
@@ -82,6 +90,7 @@
     // // Initialize Firebase
     // const app = initializeApp(firebaseConfig);
     // const analytics = getAnalytics(app);
+
   </script>
   <!-- <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script> -->
