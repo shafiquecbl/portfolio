@@ -64817,7 +64817,7 @@ A.xw.prototype={
 H(a){var s=null,r=t.p
 return new A.Ek(A.amE(!0,A.ef(A.a([new A.Ge(s),A.mm(A.aia(A.ef(A.a([new A.oB("Residence","Pakistan",s),new A.oB("City","Islamabad",s),new A.oB("Age","24",s),new A.J4(s),A.cT(s,20,s),new A.D3(s),new A.Fz(s),A.UG(),A.cT(s,10,s),A.an4(A.alj(B.P,A.hk(A.a([A.c3("DOWNLOAD CV",s,s,A.dC(s,s,A.ac(a).p3.y.b,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.cT(s,s,10),A.Jy("assets/icons/download.svg")],r),B.V,B.K,B.am),B.o,B.eY),new A.a4A()),A.e_(s,A.hk(A.a([new A.fB(1,s),A.mG(s,A.Jy("assets/icons/linkedin.svg"),s,new A.a4B(),s),A.mG(s,A.Jy("assets/icons/github.svg"),s,new A.a4C(),s),A.mG(s,A.Jy("assets/icons/twitter.svg"),s,new A.a4D(),s),new A.fB(1,s)],r),B.V,B.K,B.am),B.o,new A.n(4280558638),s,s,s,s,new A.b5(0,20,0,0),s,s,s,s)],r),B.V,B.K),new A.b5(20,20,20,20),B.aE),1)],r),B.V,B.K),!0),s)}}
 A.a4A.prototype={
-$0(){return A.oq("https://drive.google.com/file/d/1FFgQfZmS3ejkzYH71R4U4uvzhaUmK9jB/view?usp=sharing",B.bZ)},
+$0(){return A.oq("https://drive.google.com/file/d/1FWSB8egvkqKLPHFPIlXnx2GepI01Iy7f/view?usp=sharing",B.bZ)},
 $S:0}
 A.a4B.prototype={
 $0(){return A.oq("https://www.linkedin.com/in/mr-shafique/",B.bZ)},
